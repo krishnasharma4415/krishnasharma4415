@@ -116,7 +116,7 @@ Distributed log analysis system using advanced ML for anomaly detection across h
 ## 🎓 Education
 
 **B.Tech in Computer Science Engineering**  
-SRM University AP | CGPA: 7.85 | Oct 2022 - Aug 2026
+SRM University AP | Oct 2022 - Aug 2026
 
 ---
 
